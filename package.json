@@ -1,0 +1,17 @@
+{
+  "name": "spin-hub-cli",
+  "version": "1.0.0",
+  "main": "cli.js",
+  "scripts": {
+    "start": "node cli.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "markdown-it": "^14.1.0",
+    "sqlite3": "^5.1.7",
+    "yargs": "^17.7.2"
+  }
+}
