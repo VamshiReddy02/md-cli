@@ -50,4 +50,4 @@ You can use the CLI to list all templates or filter templates by language.
 To list all templates, showing only their titles:
 
 ```bash
-node cli.js list
+node cli.js hub template list
