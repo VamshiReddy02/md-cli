@@ -1,5 +1,4 @@
 const fs = require('fs');
-const path = require('path');
 const MarkdownIt = require('markdown-it');
 
 const md = new MarkdownIt();
@@ -23,4 +22,4 @@ function parseMarkdownFile(filePath) {
   return metadata;
 }
 
-module.exports = parseMarkdownFile;
+module.exports = { parseMarkdownFile };

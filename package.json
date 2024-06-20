@@ -13,6 +13,7 @@
   "license": "ISC",
   "description": "",
   "dependencies": {
+    "chokidar": "^3.6.0",
     "markdown-it": "^14.1.0",
     "sqlite3": "^5.1.7",
     "yargs": "^17.7.2"
